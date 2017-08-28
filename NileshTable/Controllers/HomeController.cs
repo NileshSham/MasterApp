@@ -12,7 +12,7 @@ namespace NileshTable.Controllers
     {
         private EmployeeContext db = new EmployeeContext();
 
-        // GET: Home
+        // GET: Homenb
         public ActionResult Index()
         {
             //List<Employee> dbList = new List<Employee>();
